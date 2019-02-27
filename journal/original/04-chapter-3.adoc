@@ -472,7 +472,9 @@ Mary Peisley
 
 [.letter-heading]
 To R. Shackleton^
-footnote:[The compiler of the [.book-title]#Memoirs and Letters of Richard and Elizabeth Shackleton# remarks;--'`About this time a little band,
+footnote:[The compiler of the
+[.book-title]#Memoirs and Letters of Richard and Elizabeth Shackleton#
+remarks;--'`About this time a little band,
 young in years, but increasing in the experience of those things which belong to peace,
 became closely united.
 Amongst these, Mary Peisley, Samuel Neale, Elizabeth Pike,

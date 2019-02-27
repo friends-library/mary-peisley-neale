@@ -448,7 +448,8 @@ Mary Peisley
 
 [.letter-heading]
 To Elizabeth Carleton,^
-footnote:[She was married to Richard Shackleton the 17th of tenth month, 1755, his second wife.] Dublin.
+footnote:[She was married to Richard Shackleton the 17th of tenth month, 1755,
+his second wife.] Dublin.
 
 [.signed-section-context-open]
 Stanton, near Philadelphia, 4th of Seventh month, 1755.
